@@ -59,4 +59,6 @@ I had to remove all zero values from the budget and revenue colums because they 
 1. SQL for business by werty.
 2. [stack overflow](http://stack.com)
 
-3. 
+3. 😄
+
+💻
